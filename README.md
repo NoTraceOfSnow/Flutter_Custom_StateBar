@@ -43,7 +43,7 @@ new TopBarPage(
  mTopBgBoxDecoration | 顶部状态栏背景框颜色(此时topBgColor属性失效)
  
 点击事件：(0表示左边图片的点击事件，1表示中间文字点击事件，2表示右边图片点击事件)
-=====
+--
 ```java
 clickListener: (index) {
               switch (index) {
